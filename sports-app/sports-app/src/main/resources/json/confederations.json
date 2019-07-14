@@ -1,0 +1,40 @@
+{
+	"confederations": [
+		{
+			"id": 1,
+			"regionName": "Europe",
+			"name": "Union of European Football Associations",
+			"abb": "UEFA"
+		},
+		{
+			"id": 2,
+			"regionName": "South America",
+			"name": "South American Football Confederation",
+			"abb": "CONMEBOL"
+		},
+		{
+			"id": 3,
+			"regionName": "Africa",
+			"name": "Confederation of African Football",
+			"abb": "CAF"
+		},
+		{
+			"id": 4,
+			"regionName": "North America",
+			"name": "Confederation of North, Central American and Caribbean Association Football",
+			"abb": "CONCACAF"
+		},
+		{
+			"id": 5,
+			"regionName": "Asia",
+			"name": "Asian Football Confederation",
+			"abb": "AFC"
+		},
+		{
+			"id": 6,
+			"regionName": "Pacific Islands",
+			"name": "Oceania Football Confederation",
+			"abb": "OFC"
+		}
+	]
+}

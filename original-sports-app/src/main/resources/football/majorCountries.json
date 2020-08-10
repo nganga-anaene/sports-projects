@@ -1,0 +1,8 @@
+{
+    "England": ["https://www.worldfootball.net/competition/eng-premier-league/", "https://www.worldfootball.net/competition/eng-championship/", "https://www.worldfootball.net/competition/eng-league-one/"],
+    "Spain": ["https://www.worldfootball.net/competition/esp-primera-division/", "https://www.worldfootball.net/competition/esp-segunda-division/"],
+    "Germany": ["https://www.worldfootball.net/competition/bundesliga/", "https://www.worldfootball.net/competition/2-bundesliga/"],
+    "Italy": ["https://www.worldfootball.net/competition/ita-serie-a/", "https://www.worldfootball.net/competition/ita-serie-b/"],
+    "France": ["https://www.worldfootball.net/competition/fra-ligue-1/", "https://www.worldfootball.net/competition/fra-ligue-2/"],
+    "Europe": ["https://www.worldfootball.net/competition/champions-league/", "https://www.worldfootball.net/competition/champions-league-qual/", "https://www.worldfootball.net/competition/europa-league/"]
+}

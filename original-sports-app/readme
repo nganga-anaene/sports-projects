@@ -1,1 +1,0 @@
-Here is the original sports app created in Java. I was not happy with inconsistency of the data provide by datasources, the design of the models and the speed of parsing large qunatities of data using Java and decided to recreate the app using python which can be found in the previous folder.
